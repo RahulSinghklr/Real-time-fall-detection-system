@@ -44,3 +44,22 @@ The system tracks the center point of the feet within predefined regions to accu
 pip install torch opencv-python
 git clone https://github.com/ultralytics/yolov5
 cd yolov5
+```
+## Data Organization
+- Organize images and labels according to YOLO’s directory structure.
+- Update the dataset configuration file with the correct paths.
+
+## Model Training
+### For YOLOv5
+```bash
+python train.py --img 640 --batch 16 --epochs 100 --data data.yaml --weights yolov5s.pt
+```
+### For YOLOv8
+```bash
+python train.py --img 640 --batch 16 --epochs 100 --data data.yaml --weights yolov8s.pt
+```
+## Model Evaluation
+Evaluate model performance using the validation set:
+```bash
+python val.py --data data.yaml --weights runs/train/exp/weights/best.pt --img 640
+```
