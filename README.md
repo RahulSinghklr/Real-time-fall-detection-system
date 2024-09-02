@@ -63,3 +63,4 @@ Evaluate model performance using the validation set:
 ```bash
 python val.py --data data.yaml --weights runs/train/exp/weights/best.pt --img 640
 ```
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/22.png)
