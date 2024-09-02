@@ -63,4 +63,13 @@ Evaluate model performance using the validation set:
 ```bash
 python val.py --data data.yaml --weights runs/train/exp/weights/best.pt --img 640
 ```
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/11.png)
 ![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/22.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/33.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/44.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/55.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/66.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/77.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/88.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/99.png)
+
