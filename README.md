@@ -71,5 +71,6 @@ python val.py --data data.yaml --weights runs/train/exp/weights/best.pt --img 64
 ![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/66.png)
 ![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/77.png)
 ![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/88.png)
+![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/89.png)
 ![image alt](https://github.com/RahulSinghklr/Real-time-fall-detection-system/blob/main/99.png)
 
