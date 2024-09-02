@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['fall', 'nofall']
+
+roboflow:
+  workspace: falldetection-msjle
+  project: fall-detection-qkfl8
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/falldetection-msjle/fall-detection-qkfl8/dataset/1
